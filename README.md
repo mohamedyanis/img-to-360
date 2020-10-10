@@ -20,7 +20,7 @@ Please :star: this repo to help us improve the quality.
 ## Screenshots
 Pic1       |    Pic2
 :---------------------: | :------------------:
-![screenshoot](screenshots/i231.png) | ![screenshoot](screenshots/i233.png)
+![screenshoot](screenshots/i231.png) | ![screenshoot](screenshots/i232.png)
 
 ## Requirements
 * processing3
